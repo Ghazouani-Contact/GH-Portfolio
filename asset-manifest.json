@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/GH-Portfolio/static/css/main.0f8a0ea2.css",
+    "main.js": "/GH-Portfolio/static/js/main.160c5032.js",
+    "static/media/pexels.jpg": "/GH-Portfolio/static/media/pexels.861ddee1058b23ed1a22.jpg",
+    "static/media/me.png": "/GH-Portfolio/static/media/me.6188a74e0854b9cbe523.png",
+    "static/media/education.jpg": "/GH-Portfolio/static/media/education.978383cd3df971753871.jpg",
+    "static/media/address.png": "/GH-Portfolio/static/media/address.a01cb8cc428702f30bec.png",
+    "static/media/email.png": "/GH-Portfolio/static/media/email.a49e015815e3ac6d2bd3.png",
+    "static/media/sun.png": "/GH-Portfolio/static/media/sun.f794832ad72b90c61eb7.png",
+    "static/media/phone.png": "/GH-Portfolio/static/media/phone.d90a6d23cf5129d853bb.png",
+    "static/media/moon.png": "/GH-Portfolio/static/media/moon.3bea3d398a25611d421b.png",
+    "index.html": "/GH-Portfolio/index.html",
+    "main.0f8a0ea2.css.map": "/GH-Portfolio/static/css/main.0f8a0ea2.css.map",
+    "main.160c5032.js.map": "/GH-Portfolio/static/js/main.160c5032.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f8a0ea2.css",
+    "static/js/main.160c5032.js"
+  ]
+}
